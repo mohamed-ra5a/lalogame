@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="lalo game"
+run/main_scene="uid://u5bebwjo1dbl"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -21,7 +22,9 @@ enabled=PackedStringArray("res://addons/godot_super-wakatime/plugin.cfg")
 [physics]
 
 3d/physics_engine="Jolt Physics"
+2d/default_gravity=2337.1270000000004
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 rendering_device/driver.windows="d3d12"
