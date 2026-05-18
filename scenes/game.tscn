@@ -901,3 +901,29 @@ position = Vector2(15026, -14)
 
 [node name="Coin59" parent="Coins" unique_id=533828621 instance=ExtResource("6_p57ef")]
 position = Vector2(15085, -13)
+
+[node name="Label" type="Label" parent="." unique_id=902371087]
+offset_left = 1382.0
+offset_top = 131.0
+offset_right = 1631.0
+offset_bottom = 166.0
+theme_override_font_sizes/font_size = 25
+text = "keep going, My man!"
+
+[node name="Label2" type="Label" parent="." unique_id=1230029078]
+offset_left = 9614.0
+offset_top = -54.0
+offset_right = 9842.0
+offset_bottom = 19.0
+theme_override_font_sizes/font_size = 25
+text = "take care of holes! 
+"
+
+[node name="Label3" type="Label" parent="." unique_id=1109761165]
+offset_left = 14887.0
+offset_top = -91.0
+offset_right = 15304.0
+offset_bottom = -4.0
+theme_override_font_sizes/font_size = 30
+text = "congratulation, you made it! 
+"
