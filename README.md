@@ -2,7 +2,7 @@
 
 
 
-## lologame is a 2d godot game consists of a palyer and the main goal of that player is reaching to the ending point with the highest amount of coins without falling in the holes. 
+## lologame is a 2d godot game consists of a palyer and the main goal of that player is reaching to the ending point with the highest amount of coins without falling in the holes or touching one of these dangerous enemies. 
 
 
 
